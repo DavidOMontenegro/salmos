@@ -1,0 +1,2 @@
+g -C ~/montenegro/salmos pull upstream master
+chmod a+x ~/montenegro/salmos/shell/*
