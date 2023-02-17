@@ -36,5 +36,4 @@ public class Salmo1 {
 		System.out.println("Mas o caminho dos perversos,");
 		System.out.println("sim, perecerá.");
 	}
-
 }
