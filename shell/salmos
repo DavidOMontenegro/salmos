@@ -1,6 +1,7 @@
 git -C ~/montenegro/salmos pull upstream master
 chmod a+x ~/montenegro/salmos/shell/*
 javac ~/montenegro/salmos/java/*.java
+echo
 echo salmo1
 echo salmo2
 echo salmo10
