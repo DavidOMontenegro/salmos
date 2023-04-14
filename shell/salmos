@@ -4,6 +4,7 @@ javac ~/montenegro/salmos/java/*.java
 echo
 echo salmo1
 echo salmo2
+echo salmo3
 echo salmo10
 echo salmo11
 echo salmo128
