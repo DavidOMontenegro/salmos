@@ -1,4 +1,4 @@
-public class salmo67 {
+public class Salmo67 {
     
     public static void main(String[] args) {
 		System.out.println("Ó Deus, sê gracioso conosco,_abençoando.");

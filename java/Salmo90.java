@@ -1,4 +1,4 @@
-public class salmo90 {
+public class Salmo90 {
     
     public static void main(String[] args) {
 		System.out.println("Senhor, tens sido refúgio pra nós");
