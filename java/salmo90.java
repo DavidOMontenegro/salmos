@@ -1,0 +1,60 @@
+public class salmo90 {
+    
+    public static void main(String[] args) {
+		System.out.println("Senhor, tens sido refúgio pra nós");
+		System.out.println("Durante todas as gerações;");
+		System.out.println("Antes que_os montes viessem a ser,");
+		System.out.println("Antes da terra_e_o mundo existir.");
+		System.out.println("Deus eternal, tu és Senhor.");
+		System.out.println("Sempre e sempre, tu és Deus.");
+		System.out.println("");
+		System.out.println("Fazes o homem voltar a ser pó");
+		System.out.println("E depois dizes: “Volvei daí”.");
+		System.out.println("Como um dia, mil anos se vão");
+		System.out.println("E como ontem eles serão.");
+		System.out.println("Pois aos teus olhos são assim,");
+		System.out.println("Como_a vigília que se foi.");
+		System.out.println("");
+		System.out.println("Todo_esse tempo qual torrentes são.");
+		System.out.println("Tu as arrastas como_o dormir.");
+		System.out.println("São como_a relva que cedo abre_a flor");
+		System.out.println("E_enche_a manhã de_enfeite_e verdor.");
+		System.out.println("Mas, quando_a tarde chega_ao fim,");
+		System.out.println("Murcha e seca se tornou.");
+		System.out.println("");
+		System.out.println("Pois consumidos estamos, ó Deus,");
+		System.out.println("E conturbados por teu furor.");
+		System.out.println("Em tu'a presença está nosso mal;");
+		System.out.println("Nosso pecado_oculto, também.");
+		System.out.println("Na tua ira_os dias vão;");
+		System.out.println("Qual breve pensamento, são.");
+		System.out.println("");
+		System.out.println("Setenta anos é_o nosso viver;");
+		System.out.println("Se há vigor, oitenta serão.");
+		System.out.println("Porém, não passam de canseira_e dor;");
+		System.out.println("Depressa vão e voamos nós.");
+		System.out.println("Quem é capaz de conhecer");
+		System.out.println("A tua ira,_o teu furor?");
+		System.out.println("");
+		System.out.println("Ensina-nos nossos dias contar");
+		System.out.println("Para que sábio seja_o viver.");
+		System.out.println("Volta e tenha de nós compaixão;");
+		System.out.println("Dá-nos tu'a graça pela manhã.");
+		System.out.println("E, sempre_alegres, teu louvor");
+		System.out.println("Entoaremos com fervor.");
+		System.out.println("");
+		System.out.println("Por muitos dias, alegra-nos, pois");
+		System.out.println("Tua_aflição nos veio_atingir.");
+		System.out.println("Por muitos anos, concede_o favor,");
+		System.out.println("Pois suportamos o teu furor.");
+		System.out.println("Que nós vejamos teu agir,");
+		System.out.println("E_os nossos filhos, teu fulgor.");
+		System.out.println("");
+		System.out.println("Seja tu'a graça, ó Deus, sobre nós,");
+		System.out.println("Sim, tua graça,_ó nosso Senhor.");
+		System.out.println("As obras das nossas mãos, nosso Deus,");
+		System.out.println("Vem confirmar, Senhor, sobre nós.");
+		System.out.println("Das nossas mãos as obras, sim,");
+		System.out.println("Confirma sobre nós, Senhor.");
+	}
+}
