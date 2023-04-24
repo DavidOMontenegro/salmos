@@ -8,8 +8,8 @@ public class Salmo3 {
 		System.out.println("");
 		System.out.println("Tu és minha glória,_escudo meu.");
 		System.out.println("Exaltas o servo teu.");
-		System.out.println("Clamei com minha voz: responde-me");
-		System.out.println("Do santo monte Seu.");
+		System.out.println("Clamei com minha voz: “Responde-me");
+		System.out.println("Do santo monte Seu.”");
 		System.out.println("");
 		System.out.println("E pego no sono ao deitar.");
 		System.out.println("Acordo, pois me susténs.");
