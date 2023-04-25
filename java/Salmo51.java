@@ -1,0 +1,67 @@
+public class Salmo51 {
+
+	public static void main(String[] args) {
+		System.out.println("Tem compaixão de mim, Senhor,");
+		System.out.println("Segundo,_ó Deus, benigno és;");
+		System.out.println("Segundo_é grande_o Teu favor");
+		System.out.println("Apaga, pois, todo_o meu pecar.");
+		System.out.println("Da minha transgressão vem me lavar");
+		System.out.println("E purifica-me do meu pecar");
+		System.out.println("Pois eu conheço e sei do mal que fiz");
+		System.out.println("Que de contínuo_está perante mim.");
+		System.out.println("");
+		System.out.println("E contra ti, SENHOR, pequei;");
+		System.out.println("Só contra ti mal procedi.");
+		System.out.println("Então, serás justo ao falar;");
+		System.out.println("No teu julgar, puro hás de ser.");
+		System.out.println("Na_iniquidade, pois, foi que_eu nasci");
+		System.out.println("E minha mãe, em mal, me concebeu.");
+		System.out.println("Pois, na verdade, no meu coração");
+		System.out.println("Está, ó meu SENHOR, o Teu prazer.");
+		System.out.println("");
+		System.out.println("No_oculto, em meu interior,");
+		System.out.println("Me fazes ver o Teu saber.");
+		System.out.println("Vem me lavar com hissopo,_ó Deus;");
+		System.out.println("Purificado ficarei.");
+		System.out.println("Mais alvo, pois, que a neve, então, serei.");
+		System.out.println("E_alegre regozijo dá-me_ouvir");
+		System.out.println("Pra que exultem, pois, os ossos meus");
+		System.out.println("Que foram esmagados, ó Senhor.");
+		System.out.println("");
+		System.out.println("Do meu pecar, o rosto Teu");
+		System.out.println("Esconde,_ó Deus. Apaga, pois,");
+		System.out.println("Todo_o meu mal e transgressão");
+		System.out.println("E cria em mim puro coração;");
+		System.out.println("Renova dentro_em mim, ó meu SENHOR;");
+		System.out.println("Inabalável coração me dá.");
+		System.out.println("De Ti não me repulses, nem de mim");
+		System.out.println("Retires Teu Espírito, Senhor.");
+		System.out.println("");
+		System.out.println("Da Salvação, o alegrar");
+		System.out.println("Vem devolver a mim, Senhor.");
+		System.out.println("E me sustém com_um coração");
+		System.out.println("Que seja,_ó Deus, voluntário._Então,");
+		System.out.println("Aos transgressores eu ensinarei");
+		System.out.println("Os Teus caminhos e_eles voltarão.");
+		System.out.println("Do crime de matar, vem me livrar,");
+		System.out.println("Ó Deus, Senhor da minha Salvação.");
+		System.out.println("");
+		System.out.println("Senhor, meus lábios vem abrir");
+		System.out.println("E cantarei o Teu louvor.");
+		System.out.println("Pois Tu, Senhor, não tens prazer");
+		System.out.println("Nos atos de sacrificar.");
+		System.out.println("Pois, do contrário, eu faria assim.");
+		System.out.println("Mas, de_holocaustos não te_agradarás,");
+		System.out.println("Pois sacrifício_a Deus é_o quebrantar");
+		System.out.println("E_ao compungido não desprezará.");
+		System.out.println("");
+		System.out.println("Senhor, o bem faze_a Sião");
+		System.out.println("Conforme_o Teu querer que_é bom.");
+		System.out.println("Os muros de Jerusalém");
+		System.out.println("Vem Tu, Senhor, edificar.");
+		System.out.println("Dos holocaustos, pois, Te_agradarás;");
+		System.out.println("De sacrifícios de justiça_e mais,");
+		System.out.println("Oferta que queimada se fizer");
+		System.out.println("E_em Teu altar novilhos se darão.");
+	}
+}
