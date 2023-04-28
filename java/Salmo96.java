@@ -14,17 +14,17 @@ public class Salmo96 {
 		System.out.println("Glória_e majestade estão diante dele,");
 		System.out.println("Força_e formosura no seu santuário.");
 		System.out.println("");
-		System.out.println("Rendei ao Senhor, ó povos todos.");
+		System.out.println("Rendei ao Senhor, famílias dos povos.");
 		System.out.println("Rendei ao Senhor glória e força.");
 		System.out.println("Rendei ao Senhor o_que_é devido_ao seu nome.");
 		System.out.println("Entrai nos seus átrios com ofertas.");
 		System.out.println("Adorai Sua santidade porque é bela;");
 		System.out.println("Tremei diante dele, povos de toda terra.");
-		System.out.println("Dizei: “Reina o Senhor.” Firmou_o mundo p'ra que não se abale.");
+		System.out.println("Dizei: “Reina o Senhor.” Firmou_o mundo p'ra que não se_abale.");
 		System.out.println("Julga_os povos todos com_equidade.");
 		System.out.println("Exultem terra e céus; ruja_o mar e_o que há nele;");
-		System.out.println("Folgue_o campo_e todas as plantas do bosque;");
+		System.out.println("Regozije o campo e sua plenitude;");
 		System.out.println("Diante do Senhor porque vem julgar a terra");
-		System.out.println("Julga_o mundo_e_os povos fiel e justamente.");
+		System.out.println("Julgará o mundo fiel_e justamente.");
 	}
 }
