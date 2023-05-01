@@ -22,7 +22,7 @@ public class Salmo96 {
 		System.out.println("Tremei diante dele, povos de toda terra.");
 		System.out.println("Dizei: “Reina o Senhor.” Firmou_o mundo p'ra que não se_abale.");
 		System.out.println("Julga_os povos todos com_equidade.");
-		System.out.println("Exultem terra_e céus; ruja_o mar e_o que há nele;");
+		System.out.println("Folguem terra_e céus; ruja_o mar e_o que há nele;");
 		System.out.println("Regozije_o campo e su'a plenitude;");
 		System.out.println("Di'ante do Senhor porque vem julgar a terra,");
 		System.out.println("Julgará o mundo fiel_e justamente.");
