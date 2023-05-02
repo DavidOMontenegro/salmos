@@ -1,4 +1,4 @@
-git -C ~/montenegro/salmos pull upstream master
+git -C ~/montenegro/salmos pull upstream master -q
 chmod a+x ~/montenegro/salmos/shell/*
 javac ~/montenegro/salmos/java/*.java
 echo
