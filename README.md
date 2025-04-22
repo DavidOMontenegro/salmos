@@ -9,19 +9,19 @@ Um programa simples para abrir os salmos cantados no projeto com facilidade pelo
   mkdir montenegro && cd montenegro
   ```
 
-2. Clone este repositório.
+1. Clone este repositório.
   ```
   git clone git@github.com:DavidOMontenegro/salmos.git
   ```
 
-3. Adicione `/home/me/montenegro/salmos/` no seu PATH dentro do arquivo `.bashrc`.
+1. Adicione `/home/me/montenegro/salmos/` no seu PATH dentro do arquivo `.bashrc`.
 
-4. Configure os seus remotos para poder atualizar automaticamente.
+1. Configure os seus remotos para poder atualizar automaticamente.
   ```
   git remote add upstream https://github.com/DavidOMontenegro/salmos.git
   ```
 
-5. Opcionalmente, faça um fork desse repositório e o adicione em seu remoto `origin`.
+1. Opcionalmente, faça um fork desse repositório e o adicione em seu remoto `origin`.
   ```
   git remote set-url origin https://github.com/<teu nome>/salmos.git
   ```
