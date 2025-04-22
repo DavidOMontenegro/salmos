@@ -2,4 +2,4 @@
 while read line
 do
   echo $line
-done < ~/montenegro/salmos/data/$1
+done < ~/montenegro/salmos/data/$1.txt
