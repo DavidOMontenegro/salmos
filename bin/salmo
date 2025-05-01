@@ -1,5 +1,2 @@
 #!/bin/bash
-while read line
-do
-  echo $line
-done < ~/montenegro/salmos/data/salmos/$1.txt
+cat ~/montenegro/salmos/data/salmos/$1.txt
