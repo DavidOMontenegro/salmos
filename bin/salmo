@@ -1,2 +1,3 @@
 #!/bin/bash
+echo
 cat ~/montenegro/salmos/data/salmos/$1.txt
