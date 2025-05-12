@@ -1,4 +1,5 @@
 git -C ~/montenegro/salmos pull upstream master -q
 chmod a+x ~/montenegro/salmos/bin/*
 echo
-ls -1v ~/montenegro/salmos/data/salmos/ | sed 's/\.[^.]*$//'
+ls -1v ~/montenegro/salmos/data/salmos/ | sed 's/^/salmo /; s/\.[^.]*$//'
+ls -1v ~/montenegro/salmos/data/credos/ | sed 's/^/credo /; s/\.[^.]*$//'
