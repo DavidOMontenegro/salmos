@@ -1,32 +1,6 @@
 git -C ~/montenegro/salmos pull upstream master -q
 chmod a+x ~/montenegro/salmos/bin/*
 echo
-echo "salmo 1"
-echo "salmo 2"
-echo "salmo 3"
-echo "salmo 8"
-echo "salmo 10"
-echo "salmo 11"
-echo "salmo 16"
-echo "salmo 24"
-echo "salmo 30"
-echo "salmo 42"
-echo "salmo 46"
-echo "salmo 51"
-echo "salmo 54"
-echo "salmo 61"
-echo "salmo 67"
-echo "salmo 70"
-echo "salmo 85"
-echo "salmo 90"
-echo "salmo 96"
-echo "salmo 103"
-echo "salmo 115"
-echo "salmo 117"
-echo "salmo 118"
-echo "salmo 119bet"
-echo "salmo 122"
-echo "salmo 128"
-echo "salmo 131"
-echo "salmo 137"
-echo "salmo 146"
+ls -1v ~/montenegro/salmos/data/salmos/ | sed 's/^/salmo /; s/\.[^.]*$//'
+ls -1v ~/montenegro/salmos/data/credos/ | sed 's/^/credo /; s/\.[^.]*$//'
+echo
